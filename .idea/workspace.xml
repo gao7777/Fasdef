@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfb47fe2-1052-4949-ad99-2b4c0ff91e25" name="Default Changelist" comment="" />
+    <list default="true" id="dfb47fe2-1052-4949-ad99-2b4c0ff91e25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -416,14 +419,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meizimanagement/apps/meizifilter/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="300">
+              <caret line="20" column="129" selection-start-line="20" selection-start-column="129" selection-end-line="20" selection-end-column="129" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -464,6 +477,9 @@
       <find>Model</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -486,6 +502,7 @@
     <option name="width" value="639" />
     <option name="height" value="458" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -498,30 +515,6 @@
             <path>
               <item name="meizimanagement" type="b2602c69:ProjectViewProjectNode" />
               <item name="meizimanagement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meizimanagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meizimanagement" type="462c0819:PsiDirectoryNode" />
-              <item name="meizimanagement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meizimanagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meizimanagement" type="462c0819:PsiDirectoryNode" />
-              <item name="meizimanagement" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meizimanagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meizimanagement" type="462c0819:PsiDirectoryNode" />
-              <item name="meizimanagement" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="meizifilter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meizimanagement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meizimanagement" type="462c0819:PsiDirectoryNode" />
-              <item name="meizimanagement" type="462c0819:PsiDirectoryNode" />
-              <item name="settings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meizimanagement" type="b2602c69:ProjectViewProjectNode" />
@@ -640,12 +633,12 @@
       <workItem from="1566611452777" duration="5576000" />
       <workItem from="1566699370060" duration="9772000" />
       <workItem from="1567132222539" duration="4269000" />
-      <workItem from="1567215390711" duration="12342000" />
+      <workItem from="1567215390711" duration="14339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90963000" />
+    <option name="totallyTimeSpent" value="92960000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -659,13 +652,13 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1297" height="589" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14651722" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17373899" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4099783" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.29067245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43817788" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -673,7 +666,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27765727" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24836601" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.47505423" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -688,13 +681,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/meizimanagement/apps/meizifilter/views.py</url>
-          <line>43</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -705,13 +691,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1868901516/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="897" lean-forward="true" selection-start-line="897" selection-end-line="897" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs　　/django/lib/python3.6/site-packages/django/db/models/query.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
@@ -1613,17 +1592,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://2a76a464-e4f1-4e97-b31e-02d6837ac009/schema/mediadict/table/media_dict">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meizimanagement/apps/meizifilter/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs　　/django/lib/python3.6/site-packages/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1986,23 +1968,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs　　/django/lib/python3.6/site-packages/django/views/generic/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+    <entry file="das://2a76a464-e4f1-4e97-b31e-02d6837ac009/schema/mediadict/table/media_dict">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meizimanagement/apps/meizifilter/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="300">
+          <caret line="20" column="129" selection-start-line="20" selection-start-column="129" selection-end-line="20" selection-end-column="129" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
