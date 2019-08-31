@@ -39,7 +39,6 @@ class MediaView(View):
                     old_object.save()
         except Exception as e:
             print(e)
-            print(e)
             response = HttpResponse(content_type="application/json;charset=utf-8",status=404,content=json.dumps({'status':'false'}))
             return response
         response= HttpResponse(content_type="application/json;charset=utf-8",status=200,content=json.dumps({'statue':'success'}))
