@@ -46,10 +46,15 @@ class MediaView(View):
 
 
     def post(self,request,*args,**kwargs):
-        re_str={'dict':'dict'}
-        response = HttpResponse(content_type='application/json;charset-"utf-8"',status=200,content= json.dumps(re_str))
-        print(request.POST.get('code'))
-        print(request.POST)
+
+        response = HttpResponse(content_type='application/json;charset-"utf-8"',status=200,content= json.dumps({"status":"no message"}))
+        false_data = {
+            "filename":"filename_false",
+            "value":"value_false"
+
+        }
+        false_list = [false_data*100]
+        MediaDate.save_all(false_list)
         return response
 
 
